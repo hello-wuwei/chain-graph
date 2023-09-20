@@ -1,6 +1,9 @@
 # chain-graph
 
 - 该库作为自定义扩展开发工具，用于链平台追踪的拓扑图树
+- 效果图
+![image](https://github.com/hello-wuwei/chain-graph/assets/18006552/770baf5b-3180-458a-bc7d-3ce2dfee4a49)
+
 
 ## Getting started
 
