@@ -1,0 +1,7 @@
+public
+src/assets/*
+lib
+*.png
+*.svg
+*.scss
+*.css
