@@ -7,7 +7,7 @@
 开发组件库
 
 ```
-git clone http://123.60.136.30:18080/beosin-development/beosin-web/common-library/chain-graph.git
+git clone https://github.com/hello-wuwei/chain-graph.git
 cd chain-graph
 npm install
 npm run dev
@@ -20,7 +20,7 @@ npm run dev
 在项目 package.json 文件"dependencies"项中添加依赖声明
 
 ```
-"chain-graph": "git+ssh://git@123.60.136.30:18022/beosin-development/beosin-web/common-library/chain-graph.git"
+"chain-graph": "git+ssh://https://github.com/hello-wuwei/chain-graph.git"
 
 ```
 
